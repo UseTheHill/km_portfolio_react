@@ -17,7 +17,7 @@ const ProjectCard = (props) => {
 
     return (
         <div>
-        {isDesktopOrLaptop && <>
+        {isDesktopOrLaptop && <> 
             <Card className="m-4">
                 <CardHeader tag="h3" className="p-3">{props.projectName}</CardHeader>
                 <Row>
