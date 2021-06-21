@@ -1,1 +1,0 @@
-{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,MACE,WAAY,CACZ,UAAW,CADX,WAAY,CACZ,UACF,CAEA,UACE,WAAY,CACZ,UACF","file":"main.74272d9c.chunk.css","sourcesContent":[".logo {\n  height: 30px;\n  width: 35px;\n}\n\n.headshot {\n  height: 100%;\n  width: 100%;\n}\n"]}
