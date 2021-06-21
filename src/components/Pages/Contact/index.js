@@ -23,8 +23,18 @@ const Contact = (props) => {
       <hr className="my-4" />
       <Row className="d-flex justify-content-center">
         <Card className="w-50 mt-3">
-          <CardHeader tag="h3" className="text-left">
-            Kayte McDonough
+          <CardHeader tag="h3">
+            <Row>
+              <Col className="ml-4">Kayte McDonough</Col>
+              <Button
+                color="secondary"
+                className="mr-5"
+                href="https://drive.google.com/file/d/1T-7m381P-ez4lvrgHsXBDFS-13THsuz9/view"
+                target="_blank"
+              >
+                Resume
+              </Button>
+            </Row>
           </CardHeader>
           <CardBody>
             <CardTitle className="lead text-left">Web Developer</CardTitle>
