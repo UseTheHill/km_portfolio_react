@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/km_portfolio_react/static/css/main.74272d9c.chunk.css",
+    "main.js": "/km_portfolio_react/static/js/main.2ed70172.chunk.js",
+    "main.js.map": "/km_portfolio_react/static/js/main.2ed70172.chunk.js.map",
+    "runtime-main.js": "/km_portfolio_react/static/js/runtime-main.0c948777.js",
+    "runtime-main.js.map": "/km_portfolio_react/static/js/runtime-main.0c948777.js.map",
+    "static/css/2.9233ae65.chunk.css": "/km_portfolio_react/static/css/2.9233ae65.chunk.css",
+    "static/js/2.a299e0fc.chunk.js": "/km_portfolio_react/static/js/2.a299e0fc.chunk.js",
+    "static/js/2.a299e0fc.chunk.js.map": "/km_portfolio_react/static/js/2.a299e0fc.chunk.js.map",
+    "index.html": "/km_portfolio_react/index.html",
+    "precache-manifest.4ebb02327ce6d0c6916723159ccdbecd.js": "/km_portfolio_react/precache-manifest.4ebb02327ce6d0c6916723159ccdbecd.js",
+    "service-worker.js": "/km_portfolio_react/service-worker.js",
+    "static/css/2.9233ae65.chunk.css.map": "/km_portfolio_react/static/css/2.9233ae65.chunk.css.map",
+    "static/css/main.74272d9c.chunk.css.map": "/km_portfolio_react/static/css/main.74272d9c.chunk.css.map",
+    "static/js/2.a299e0fc.chunk.js.LICENSE.txt": "/km_portfolio_react/static/js/2.a299e0fc.chunk.js.LICENSE.txt",
+    "static/media/CSS3-logo.png": "/km_portfolio_react/static/media/CSS3-logo.f7d7ff00.png",
+    "static/media/React.js-logo.png": "/km_portfolio_react/static/media/React.js-logo.47ce6e77.png",
+    "static/media/bootstrap-logo.png": "/km_portfolio_react/static/media/bootstrap-logo.68fcf38c.png",
+    "static/media/dateButlergif.gif": "/km_portfolio_react/static/media/dateButlergif.cc83f87e.gif",
+    "static/media/email-logo.png": "/km_portfolio_react/static/media/email-logo.1841a626.png",
+    "static/media/employeeDirectorygif.gif": "/km_portfolio_react/static/media/employeeDirectorygif.a8fe4a40.gif",
+    "static/media/giftEzgif.gif": "/km_portfolio_react/static/media/giftEzgif.86e387c7.gif",
+    "static/media/github-logo.png": "/km_portfolio_react/static/media/github-logo.3ecf4fd5.png",
+    "static/media/headshot.jpg": "/km_portfolio_react/static/media/headshot.1b5adcb5.jpg",
+    "static/media/javascript-logo.png": "/km_portfolio_react/static/media/javascript-logo.fa993513.png",
+    "static/media/linkedin-logo.png": "/km_portfolio_react/static/media/linkedin-logo.67733740.png",
+    "static/media/mysql-logo.png": "/km_portfolio_react/static/media/mysql-logo.bab2c760.png",
+    "static/media/node-js-logo.png": "/km_portfolio_react/static/media/node-js-logo.74a89dde.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c948777.js",
+    "static/css/2.9233ae65.chunk.css",
+    "static/js/2.a299e0fc.chunk.js",
+    "static/css/main.74272d9c.chunk.css",
+    "static/js/main.2ed70172.chunk.js"
+  ]
+}
