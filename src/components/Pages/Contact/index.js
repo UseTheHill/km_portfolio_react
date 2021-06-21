@@ -46,7 +46,7 @@ const Contact = (props) => {
                 <CardText>
                   <img className="logo" src={emailIcon} alt="Logo" /> :{" "}
                   <a href="mailto:Kaytemcdonough@gmail.com">
-                    Kaytemcdonough@gmail.com
+                    Kayte McDonough
                   </a>
                 </CardText>
                 <CardText>
