@@ -1,26 +1,25 @@
-import React from "react";
-import { BrowserRouter as Router, Route } from "react-router-dom";
-import Discover from "./pages/Discover";
-import About from "./pages/About";
-import Search from "./pages/Search";
-import Navbar from "./components/Navbar";
-import Footer from "./components/Footer";
-import Wrapper from "./components/Wrapper";
+import React from 'react';
+import {Route} from 'react-router-dom';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Navbar from "./Components/Components/Navbar";
+import { Container } from 'reactstrap';
+import About from './Components/Pages/AboutMe';
+import Projects from './Components/Pages/Projects';
+import Contact from './Components/Pages/Contact';
+
+
+
 
 function App() {
   return (
-    <Router>
-      <div>
+      <div className="App">
         <Navbar />
-        <Wrapper>
-          <Route exact path="/" component={About} />
-          <Route exact path="/about" component={About} />
-          <Route exact path="/discover" component={Discover} />
-          <Route exact path="/search" component={Search} />
-        </Wrapper>
-        <Footer />
+          <Container>
+            <Route exact path="/" component={About} />
+            <Route path="/projects" component={Projects} />
+            <Route path="/contact" component={Contact} />
+          </Container>
       </div>
-    </Router>
   );
 }
 
