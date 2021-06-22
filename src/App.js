@@ -1,5 +1,5 @@
 import React from "react";
-import { Route } from "react-router-dom";
+import { BrowserRouter as Router, Route } from "react-router-dom";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Navbar from "./Components/Components/Navbar";
 import { Container } from "reactstrap";
@@ -14,12 +14,13 @@ library.add(faEnvelope, faCodeBranch);
 function App() {
   return (
     <div className="App">
-      <Navbar />
-      <Container>
+      <Router>
+        <Navbar />
+
         <Route exact path="/" component={About} />
         <Route exact path="/projects" component={Projects} />
         <Route exact path="/contact" component={Contact} />
-      </Container>
+      </Router>
     </div>
   );
 }
