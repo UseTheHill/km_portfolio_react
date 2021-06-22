@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/km_portfolio_react/static/css/main.74272d9c.chunk.css",
-    "main.js": "/km_portfolio_react/static/js/main.2ed70172.chunk.js",
-    "main.js.map": "/km_portfolio_react/static/js/main.2ed70172.chunk.js.map",
+    "main.js": "/km_portfolio_react/static/js/main.663dcfb7.chunk.js",
+    "main.js.map": "/km_portfolio_react/static/js/main.663dcfb7.chunk.js.map",
     "runtime-main.js": "/km_portfolio_react/static/js/runtime-main.0c948777.js",
     "runtime-main.js.map": "/km_portfolio_react/static/js/runtime-main.0c948777.js.map",
     "static/css/2.9233ae65.chunk.css": "/km_portfolio_react/static/css/2.9233ae65.chunk.css",
-    "static/js/2.a299e0fc.chunk.js": "/km_portfolio_react/static/js/2.a299e0fc.chunk.js",
-    "static/js/2.a299e0fc.chunk.js.map": "/km_portfolio_react/static/js/2.a299e0fc.chunk.js.map",
-    "index.html": "/km_portfolio_react/",
-    "precache-manifest.4ebb02327ce6d0c6916723159ccdbecd.js": "/km_portfolio_react/precache-manifest.4ebb02327ce6d0c6916723159ccdbecd.js",
+    "static/js/2.97bdd8d1.chunk.js": "/km_portfolio_react/static/js/2.97bdd8d1.chunk.js",
+    "static/js/2.97bdd8d1.chunk.js.map": "/km_portfolio_react/static/js/2.97bdd8d1.chunk.js.map",
+    "index.html": "/km_portfolio_react/index.html",
+    "precache-manifest.b237e75b6bab70f5b2b4cdbb4aff4abb.js": "/km_portfolio_react/precache-manifest.b237e75b6bab70f5b2b4cdbb4aff4abb.js",
     "service-worker.js": "/km_portfolio_react/service-worker.js",
     "static/css/2.9233ae65.chunk.css.map": "/km_portfolio_react/static/css/2.9233ae65.chunk.css.map",
     "static/css/main.74272d9c.chunk.css.map": "/km_portfolio_react/static/css/main.74272d9c.chunk.css.map",
-    "static/js/2.a299e0fc.chunk.js.LICENSE.txt": "/km_portfolio_react/static/js/2.a299e0fc.chunk.js.LICENSE.txt",
+    "static/js/2.97bdd8d1.chunk.js.LICENSE.txt": "/km_portfolio_react/static/js/2.97bdd8d1.chunk.js.LICENSE.txt",
     "static/media/CSS3-logo.png": "/km_portfolio_react/static/media/CSS3-logo.f7d7ff00.png",
     "static/media/React.js-logo.png": "/km_portfolio_react/static/media/React.js-logo.47ce6e77.png",
     "static/media/bootstrap-logo.png": "/km_portfolio_react/static/media/bootstrap-logo.68fcf38c.png",
@@ -31,8 +31,8 @@
   "entrypoints": [
     "static/js/runtime-main.0c948777.js",
     "static/css/2.9233ae65.chunk.css",
-    "static/js/2.a299e0fc.chunk.js",
+    "static/js/2.97bdd8d1.chunk.js",
     "static/css/main.74272d9c.chunk.css",
-    "static/js/main.2ed70172.chunk.js"
+    "static/js/main.663dcfb7.chunk.js"
   ]
 }
