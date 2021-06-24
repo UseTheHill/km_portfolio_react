@@ -16,7 +16,7 @@ import linkedInIcon from "../../Pictures/linkedin-logo.png";
 import headshot from "../../Pictures/headshot.jpg";
 import "./style.css";
 
-const Contact = (props) => {
+function Contact() {
   return (
     <div>
       <h3 className="m-5 text-center">Contact Information</h3>
@@ -45,9 +45,7 @@ const Contact = (props) => {
               <Col className="text-Left m-3">
                 <CardText>
                   <img className="logo" src={emailIcon} alt="Logo" /> :{" "}
-                  <a href="mailto:Kaytemcdonough@gmail.com">
-                    Kayte McDonough
-                  </a>
+                  <a href="mailto:Kaytemcdonough@gmail.com">Kayte McDonough</a>
                 </CardText>
                 <CardText>
                   <img className="logo" src={githubIcon} alt="Logo" /> :{" "}

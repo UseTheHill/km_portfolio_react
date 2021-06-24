@@ -1,9 +1,9 @@
-import React from "react";
+import React, { Component } from "react";
 import ProjectCard from "../../Components/ProjectCard";
 import { Jumbotron } from "reactstrap";
 import projects from "../../Info/projects.js";
 
-class Projects extends React.Component {
+class Projects extends Component {
   state = {
     projects,
   };
