@@ -10,7 +10,7 @@ class About extends React.Component {
 
   render() {
     return (
-      <Jumbotron className="m-5 text-center">
+      <Jumbotron id="about" className="m-5 text-center">
         <h1 className="display-4">Hello!</h1>
         <p className="lead">I'm Kayte McDonough, a web developer.</p>
         <hr className="my-4" />
